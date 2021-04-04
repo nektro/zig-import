@@ -21,7 +21,7 @@ pub fn main() anyerror!void {
 }
 ```
 
-```
+```zig
 // add.zig
 pub fn default(a: i32, b: i32) i32 {
     return a + b;
